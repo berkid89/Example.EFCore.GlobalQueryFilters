@@ -1,0 +1,1 @@
+# Example.EFCore.GlobalQueryFilters
