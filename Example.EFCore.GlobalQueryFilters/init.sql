@@ -76,9 +76,9 @@ INSERT [dbo].[Tasks] ([Id], [Title], [StudentId], [IsDeleted]) VALUES (2, N'Hoov
 GO
 INSERT [dbo].[Tasks] ([Id], [Title], [StudentId], [IsDeleted]) VALUES (3, N'Read The Hunger Games (novel)', 1, 0)
 GO
-INSERT [dbo].[Tasks] ([Id], [Title], [StudentId], [IsDeleted]) VALUES (5, N'Buy a new shoe', 3, 0)
+INSERT [dbo].[Tasks] ([Id], [Title], [StudentId], [IsDeleted]) VALUES (5, N'Buying new shoes', 3, 0)
 GO
-INSERT [dbo].[Tasks] ([Id], [Title], [StudentId], [IsDeleted]) VALUES (7, N'Buy a new boots', 3, 1)
+INSERT [dbo].[Tasks] ([Id], [Title], [StudentId], [IsDeleted]) VALUES (7, N'Buying new boots', 3, 1)
 GO
 SET IDENTITY_INSERT [dbo].[Tasks] OFF
 GO
