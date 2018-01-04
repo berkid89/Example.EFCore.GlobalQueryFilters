@@ -4,8 +4,10 @@ Example .NET Core 2.0 project for my blog post:
 
 ## 1. Clone
 
-  - git clone https://github.com/berkid89/Example.EFCore.GlobalQueryFilters.git
-  - cd Example.EFCore.GlobalQueryFilters\Example.EFCore.GlobalQueryFilters
+  ```bash
+     git clone https://github.com/berkid89/Example.EFCore.GlobalQueryFilters.git
+     cd Example.EFCore.GlobalQueryFilters\Example.EFCore.GlobalQueryFilters
+  ```
 
 ## 2. Init the database
 
