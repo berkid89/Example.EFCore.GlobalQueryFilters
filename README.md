@@ -1,7 +1,5 @@
 # Example.EFCore.GlobalQueryFilters
 
-Example .NET Core 2.0 project for my blog post:
-
 ## 1. Clone
 
   ```bash
